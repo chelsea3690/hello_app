@@ -1,0 +1,18 @@
+
+
+Started GET "/" for 66.90.168.173 at 2016-04-18 15:55:55 +0000
+Processing by Rails::WelcomeController#index as HTML
+  Rendered /usr/local/rvm/gems/ruby-2.3.0/gems/railties-4.2.2/lib/rails/templates/rails/welcome/index.html.erb (7.9ms)
+Completed 200 OK in 78ms (Views: 51.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 66.90.168.173 at 2016-04-18 16:00:26 +0000
+Processing by Rails::WelcomeController#index as HTML
+  Rendered /usr/local/rvm/gems/ruby-2.3.0/gems/railties-4.2.2/lib/rails/templates/rails/welcome/index.html.erb (0.3ms)
+Completed 200 OK in 38ms (Views: 34.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 66.90.168.173 at 2016-04-18 16:01:09 +0000
+Processing by ApplicationController#hello as HTML
+  Rendered text template (0.0ms)
+Completed 200 OK in 20ms (Views: 18.9ms | ActiveRecord: 0.0ms)
